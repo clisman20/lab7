@@ -18,6 +18,8 @@ Al terminar: git commit -m "Resuelve ejercicio 03".
 """
 
 def calcular_importes(precios):
+    p
+     
     # TODO: implementa lo solicitado y devuelve el resultado.
     pass
 
